@@ -1,4 +1,4 @@
-# AI-Generated Text Detection 🤖
+# AI-Generated Text Detection 
 
 ## Project Overview
 
